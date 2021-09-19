@@ -1,0 +1,28 @@
+#about-body{
+    background-image: url(../Image/about-background.jpg);
+    background-size: cover;
+    height: 515px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.about-container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.about-container h2{
+    font-size: 40px;
+    margin-bottom: 3px;
+}
+
+.about-container p{
+    background-color: black;
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 19px;
+    line-height: 1.5em;
+    opacity: 0.9;
+}

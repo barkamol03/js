@@ -1,0 +1,35 @@
+#mun-body-section{
+    background-image: url(../Image/about-background.jpg);
+    height: 515px;
+    background-size: cover;
+    color: #fff;
+}
+
+.container2{
+    width: 80%;
+    margin: auto;
+}
+
+.left-mun-box, .right-mun-box{
+    display: flex;
+    flex-direction: column;
+    margin-top: 45px;
+}
+
+.left-mun-box a, .right-mun-box a{
+    text-decoration: none;
+    color: #fff;
+    background-color: #0a1925;
+    margin: 15px;
+    padding: 20px;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.left-mun-box a:hover, .right-mun-box a:hover{
+    color: #e99f4c;
+}

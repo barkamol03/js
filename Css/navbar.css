@@ -1,0 +1,37 @@
+#navbar{
+    background-color: #091520;
+    padding: 6px 0;
+}
+
+.navbar_item__2{
+    display: flex;
+    margin-left: auto;
+}
+
+.navbar_item__2 p{
+    padding: 15px 25px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.navbar_item__2 p a:hover{
+    color: #e99f4c;
+}
+
+.navbar_container{
+    width: 80%;
+    margin:auto;
+    display: flex;
+    align-items: center;
+}
+
+.navbar_container a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+}
+
+.navbar_item__1 h1{
+    text-transform: uppercase;
+    font-size: 25px;
+}
